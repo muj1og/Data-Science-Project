@@ -8,7 +8,7 @@ In real life imbalanced datasets can be found in many senario for example- fraud
 cancer detection, manfacturing defects, online ads conversion etc. i achived an score of 77% of the minrioty class and always there is room for improvement!. 
 
 2. **20 Machine Learning project** (https://github.com/muj1og/Data-Science-Project/blob/master/20%20machine%20learning.ipynb)
-My main focus on this project was on how to apply diffrent machine learning to model regardless what the data set, therefore i chose to predict wine quality dataset and is one of the most popular datasets along data science. It is divided into 2 datasets. You can perform both regression and classification tasks on this data and this what i want it.
+My main focus on this project was on how to apply diffrent machine learning to model regardless what the data set is, therefore i chose to predict wine quality dataset and is one of the most popular datasets along data science. It is divided into 2 datasets. You can perform both regression and classification tasks on this data and this what i want it.
 
 3. **Loan prediction project** (https://github.com/muj1og/Data-Science-Project/blob/master/Loan%20Prediction.ipynb)
 Among all industries, the insurance domain has one of the largest uses of analytics & data science methods. This dataset provides you a taste of working on data sets from insurance companies – what challenges are faced there, what strategies are used, which variables influence the outcome, etc. This is a classification problem. 
