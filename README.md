@@ -12,3 +12,6 @@ My main focus on this project was on how to apply diffrent machine learning to m
 
 3. **Loan prediction project** (https://github.com/muj1og/Data-Science-Project/blob/master/Loan%20Prediction.ipynb)
 Among all industries, the insurance domain has one of the largest uses of analytics & data science methods. This dataset provides you a taste of working on data sets from insurance companies – what challenges are faced there, what strategies are used, which variables influence the outcome, etc. This is a classification problem. 
+
+
+4. **py-SQL in pandas** (https://github.com/muj1og/Data-Science-Project/blob/master/py-SQL%20in%20Pandas.ipynb) Acessing Data from a SQLite Database and then, just reitrate that getting data from database to perform data science process that how, (and thus, has no effect upon the rest of the data science process), Instead of reading data from a CSV file, we get it from a database and built a machine learning model in top of it.
